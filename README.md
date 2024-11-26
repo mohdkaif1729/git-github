@@ -47,3 +47,58 @@ H~2~O
 | header | titile      | maths |
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXgGY0wkgOzynnHvSEVmE3A)
+
+## git commands
+
+```bash
+git init
+```
+
+```bash
+git clone [url]
+```
+
+```bash
+git status
+```
+
+```bash
+git add [file]
+
+```
+
+```bash
+git restore --staged [file]
+```
+
+```bash
+git restore [file]
+```
+
+```bash
+git commit -m "message"
+```
+
+```bash
+git branch
+```
+
+```bash
+git branch [new-branch]
+```
+
+```bash
+git switch [branch]
+```
+
+```bash
+git checkout [branch]
+```
+
+```bash
+git switch -c [new-branch]
+```
+
+```bash
+git branch -d [branch]
+```
