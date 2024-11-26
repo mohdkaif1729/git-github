@@ -110,3 +110,27 @@ git branch -d [branch]
 ```bash
 git branch -a
 ```
+
+```bash
+git checkout -b [branch-name] origin/[branch-name]
+```
+
+```bash
+git clone --mirror [repository-url]
+```
+
+```bash
+git clone --bare [repository-url]
+```
+
+```bash
+git stash
+```
+
+```bash
+git stash pop
+```
+
+```bash
+git stash list
+```
