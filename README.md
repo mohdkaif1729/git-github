@@ -96,9 +96,17 @@ git checkout [branch]
 ```
 
 ```bash
+git checkout -b [new-branch]
+```
+
+```bash
 git switch -c [new-branch]
 ```
 
 ```bash
 git branch -d [branch]
+```
+
+```bash
+git branch -a
 ```
